@@ -1,0 +1,12 @@
+{
+  "name": "DrinkWater",
+  "displayName": "DrinkWater",
+  "expo": {
+    "name": "DrinkWater",
+    "slug": "DrinkWater",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
